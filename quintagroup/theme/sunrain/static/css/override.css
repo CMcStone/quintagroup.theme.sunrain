@@ -1,0 +1,58 @@
+#portal-header {
+    background-color: white;
+}
+
+#portal-globalnav {
+     background-color: #60797e;
+}
+
+.connect dl.portlet dt.portletHeader {
+    background-color: white;
+}
+
+.events {
+   background-color: #abbd91;
+}
+
+.events dl.portlet dt.portletHeader {
+    background-color: #abbd91;
+}
+
+.kickoff {
+   background-color: #d9d9d9;
+}
+
+.marchand {
+   background-color: #d9d9d9;
+}
+
+.marchand dl.portlet dt.portletHeader {
+    background-color: #516c26;
+    color: white
+}
+
+.greenheader {
+   background-color: #d9d9d9;
+}
+
+.greenheader dl.portlet dt.portletHeader {
+    background-color: #60797e;
+    color: white
+}
+
+.online {
+   background-color: #d9d9d9;
+}
+
+.online dl.portlet dt.portletHeader {
+    background-color: #786f58;
+    color: white
+}
+
+#portal-footer {
+  background: #60797e;
+}
+
+#doormat-container.columns-4 {
+  background: #60797e;
+}
